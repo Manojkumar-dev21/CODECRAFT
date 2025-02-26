@@ -6,7 +6,7 @@ import type React from "react" // Added import for React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WebCraft Studio - Premium Web Design & Development Agency",
+  title: "CODECRAFT - Web Design & Development Agency",
   description: "Crafting exceptional digital experiences through innovative web design and development solutions",
     generator: 'v0.dev'
 }
