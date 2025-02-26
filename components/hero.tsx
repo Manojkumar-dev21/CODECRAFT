@@ -76,7 +76,7 @@ export function Hero() {
                 transition={{ delay: 0.2, duration: 0.5 }}
                 className="text-5xl md:text-7xl font-bold tracking-tight max-w-4xl mx-auto leading-tight bg-gradient-to-b from-white via-gray-300 to-gray-500 text-transparent bg-clip-text"
               >
-                Premium Web Design & Development Agency.
+               Web Design & Development Agency.
               </motion.h1>
 
               <motion.p
